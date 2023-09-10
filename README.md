@@ -380,11 +380,11 @@ section in progress
 - [Cloud Security Blogs](https://blog.feedspot.com/cloud_security_blogs/) A collection of top cloud security blogs, providing insights and updates on cloud security trends.
 - [Cloud Security Podcasts](https://www.cloudsecuritypodcast.tv/) A podcast series focused on cloud security topics and discussions.
 - [SANS Institute Cloud Security Training](https://www.sans.org/cloud-security-training) Cloud security courses and training offered by the SANS Institute.
-- [Azure Fundamentals from youtube](https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM)
+- [Azure Fundamentals from YouTube](https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM)
 
-this section is still in progress
+This section is still in progress
 ## Digital Forensics
-this section is still in progress 
+This section is still in progress 
 
 ## Operating systems 
 * [Kali Linux](https://www.kali.org) is the most common operating system used for ethical hacking. 
@@ -424,17 +424,17 @@ OSINT (Open Source Intelligence) -The practice of collecting information from pu
 * http://www.searchbug.com/default.aspx - Contact and services search engine  
 * http://theultimates.com/ - people and business search 
 * http://skipease.com/ - public records search 
-* http://addictomatic.com/ - search topics and key phrases 
+* http://addictomatic.com/ - Search topics and key phrases 
 * http://socialmention.com/ - see how often a phrase is mentioned 
 * http://entitycube.research.microsoft.com/ - link entities to other sources  
-* http://www.yasni.com/ - search engine of people and business 
-* http://tweepz.com/ - search and find Twitter profiles 
+* http://www.yasni.com/ - search engine for people and business 
+* http://tweepz.com/ - Search and find Twitter profiles 
 * http://tweepsearch.com/ - Tweet search engine 
-* http://www.glassdoor.com/index.htm - search for employers and salaries 
+* http://www.glassdoor.com/index.htm - Search for employers and salaries 
 * http://www.jigsaw.com/ - Business information exchange 
 * http://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp - public trading and financial documents 
-* http://www.tineye.com/ - search for images 
-* http://www.peekyou.com/ - online people search 
+* http://www.tineye.com/ - Search for images 
+* http://www.peekyou.com/ - Online people search 
 * http://picfog.com/ - search engine for images 
 * http://twapperkeeper.com/index.php - Twitter archival search
 ### Infrastructure:
@@ -503,8 +503,6 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * [http://nvd.nist.gov/](http://nvd.nist.gov/): U.S. National Vulnerability Database. 
 * [http://osvdb.org/](http://osvdb.org/): open source vulnerability database. 
 * [http://www.nullbyte.org.il/Index.html](http://www.nullbyte.org.il/Index.html): cyber security and hacking website.
-* [http://secdocs.lonerunners.net/](http://secdocs.lonerunners.net/): security document search engine.
-* [http://www.phenoelit-us.org/whatSAP/index.html](http://www.phenoelit-us.org/whatSAP/index.html): SAP security exploit database.
 * [http://secunia.com/](http://secunia.com/): online IT security vulnerability resource.
 * [http://cve.mitre.org/](http://cve.mitre.org/): database of publicly known security vulnerabilities
   ## Glossary
