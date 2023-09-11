@@ -75,6 +75,9 @@ Please note that pirating will not be supported, as many books are available for
 - [The Brett Johnson Show](https://www.thebrettjohnsonshow.com/)
 - [What The Shell](https://whattheshellpod.com/)
 - [The Hacker Mind](https://thehackermind.com/)
+- [The Cyber Wueens Podcast](https://www.cyberqueenspodcast.com)
+- [Cyber Warrior Studios](https://www.cyberwarriorstudios.com/)
+- [The Hacker Factory wirh Phillip Wylie](https://www.itspmagazine.com/the-hacker-factory-podcast)
 ## Hacking and Security Challenges
 ### Capture the Flag (CTF) Challenges
 - [TryHackMe](https://tryhackme.com/) Highly recommended for beginners. They have many good free tutorials and detailed walkthroughs for many rooms.
