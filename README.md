@@ -75,7 +75,7 @@ Please note that pirating will not be supported, as many books are available for
 - [The Brett Johnson Show](https://www.thebrettjohnsonshow.com/)
 - [What The Shell](https://whattheshellpod.com/)
 - [The Hacker Mind](https://thehackermind.com/)
-- [The Cyber Wueens Podcast](https://www.cyberqueenspodcast.com)
+- [The Cyber Queens Podcast](https://www.cyberqueenspodcast.com)
 - [Cyber Warrior Studios](https://www.cyberwarriorstudios.com/)
 - [The Hacker Factory wirh Phillip Wylie](https://www.itspmagazine.com/the-hacker-factory-podcast)
 ## Hacking and Security Challenges
