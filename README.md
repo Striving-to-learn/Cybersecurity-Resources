@@ -1,6 +1,12 @@
 # Getting Started in Cybersecurity and Hacking
 ## Introduction
-Entering the world of cybersecurity can feel daunting, especially with the abundance of resources competing for your attention. This guide simplifies the journey for newcomers interested in technology, cybersecurity, ethical hacking, and bug bounty hunting. It offers neatly organized links and resources for each topic. Picture the cybersecurity realm as a vast online library, rich with valuable knowledge. Begin with the "Table of Contents" as your roadmap. Start with "Getting Started" to grasp the fundamentals, then dive into "Hacking and Security Challenges" to understand potential threats. Explore "Hacking Techniques" to learn about cyberattacks. Progress through "Programming," "Linux," and "Networking" to establish foundational skills. Consider "Certifications" for validation and "Web Application Security" for specialized knowledge. Uncover vital tools in "Cybersecurity Tools," and broaden your expertise in cloud security, digital forensics, and operating systems. Engage with the cybersecurity community through "Communities and Conferences," stay updated via "Blogs, Wikis, Magazines, and Forums," and explore cutting-edge research in "Security Research." For clarity, consult the "Glossary and Terms," and don't hesitate to contribute your insights via "Contributions." This structured approach will empower you to navigate the world of cybersecurity effectively.
+Entering the world of cybersecurity can feel daunting, especially with the abundance of resources competing for your attention. This guide simplifies the journey for newcomers interested in technology, cybersecurity, ethical hacking, and bug bounty hunting. 
+- It offers neatly organized links and resources for each topic. Picture the cybersecurity realm as a vast online library, rich with valuable knowledge.
+- Begin with the "Table of Contents" as your roadmap. Start with "Getting Started" to grasp the fundamentals, then dive into "Hacking and Security Challenges" to understand potential threats.
+- Explore "Hacking Techniques" to learn about cyberattacks. Progress through "Programming," "Linux," and "Networking" to establish foundational skills. 
+- Consider "Certifications" for validation and "Web Application Security" for specialized knowledge. Uncover vital tools in "Cybersecurity Tools," and broaden your expertise in cloud security, digital forensics, and operating systems.
+-   Engage with the cybersecurity community through "Communities and Conferences," stay updated via "Blogs, Wikis, Magazines, and Forums," and explore cutting-edge research in "Security Research."
+-   For clarity, consult the "Glossary and Terms," and don't hesitate to contribute your insights via "Contributions." This structured approach will empower you to navigate the world of cybersecurity effectively.
 ## Table of Contents
 - [Getting Started](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#getting-started)
 - [Hacking and Security Challenges](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#hacking-and-security-challenges)
@@ -116,7 +122,6 @@ Please note that pirating will not be supported, as many books are available for
 #### Password and Hash Cracking Tutorials
 - [Security and Password Exploitation Class](http://www.irongeek.com/i.php?page=videos/password-exploitation-class)
 - [Default Passwords for Various Vendors and Software](http://cirt.net/passwords)
-
 - [Tutorial on Cracking Passwords Using Medusa](http://www.foofus.net/~jmk/medusa/medusa-smbnt.html)
 - [Tutorial on Cracking Hashes Using Medusa](http://www.foofus.net/?page_id=63)
 - [Blog About Cracking Hashes and Passwords](http://hashcrack.blogspot.com/)
