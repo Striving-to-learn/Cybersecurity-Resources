@@ -75,6 +75,9 @@ Please note that pirating will not be supported, as many books are available for
 - [The Brett Johnson Show](https://www.thebrettjohnsonshow.com/)
 - [What The Shell](https://whattheshellpod.com/)
 - [The Hacker Mind](https://thehackermind.com/)
+- [The Cyber Queens Podcast](https://www.cyberqueenspodcast.com)
+- [Cyber Warrior Studios](https://www.cyberwarriorstudios.com/)
+- [The Hacker Factory wirh Phillip Wylie](https://www.itspmagazine.com/the-hacker-factory-podcast)
 ## Hacking and Security Challenges
 ### Capture the Flag (CTF) Challenges
 - [TryHackMe](https://tryhackme.com/) Highly recommended for beginners. They have many good free tutorials and detailed walkthroughs for many rooms.
@@ -220,14 +223,20 @@ the Cost is Low/Mid (USD $300-400)
 ### Penetration Testing
 - [CompTIA PenTest+](https://www.comptia.org/certifications/pentest) Certification focusing on penetration testing methodology
 The Cost is Low/Mid (USD $300-400)
+- [PJPT](https://certifications.tcm-sec.com/pjpt/) Hands-on exam from TheCyberMentor (Heath Adams) covering internal penetration testing  Cost Low/Mid (USD $200)
 - [PNPT](https://certifications.tcm-sec.com/pnpt/)  Hands-on exam from TheCyberMentor (Heath Adams) covering active directory external penetration testing and privilege escalation
  Cost Low/Mid (USD $300-400)
 - [EJPT](https://elearnsecurity.com/product/ejpt-certification/) Practical exam for penetration testing 
 The Cost is Low/Mid (USD $300-400)
+- [EWPT](https://security.ine.com/certifications/ewpt-certification/) Hands-on web application penetration testing exam The Cost is Low/Mid (USD $300-400)
+- [EMAPT](https://security.ine.com/certifications/emapt-certification/) Hands-on mobile application penetration testing exam The Cost is Low/Mid (USD $300-400)
+- [ECPPT](https://security.ine.com/certifications/ecppt-certification/) Hands-om network penetration testing exam The Cost is Low/Mid (USD $300-400)
 - [CEH Master](https://www.eccouncil.org/train-certify/ceh-master/) Practical CEH exam Cost is really high (USD $4,670) including CEH multiple-choice and hands-on exams. Typically need college, a scholarship, or work to pay for it. 
 - [OSCP](https://www.offsec.com/courses/pen-200/) Highly recognized penetration testing certification with a focus on manual testing techniques 
 The cost is High (USD $1000-2500)
 - I will be writing an OSCP study guide soon.
+- [OSWA](https://www.offsec.com/courses/web-200/) Hands-on web application penetration testing exam
+- [OSWP](https://www.offsec.com/courses/web-210/) Hands-on  wireless penetration testing exam 
 - Looking for people to give feedback on SANS certifications
 ## Web Application Security
 
