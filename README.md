@@ -230,13 +230,14 @@ The Cost is Low/Mid (USD $300-400)
 The Cost is Low/Mid (USD $300-400)
 - [EWPT](https://security.ine.com/certifications/ewpt-certification/) Hands-on web application penetration testing exam The Cost is Low/Mid (USD $300-400)
 - [EMAPT](https://security.ine.com/certifications/emapt-certification/) Hands-on mobile application penetration testing exam The Cost is Low/Mid (USD $300-400)
-- [ECPPT](https://security.ine.com/certifications/ecppt-certification/) Hands-om network penetration testing exam The Cost is Low/Mid (USD $300-400)
+- [ECPPT](https://security.ine.com/certifications/ecppt-certification/) Hands-on network penetration testing exam The Cost is Low/Mid (USD $300-400)
 - [CEH Master](https://www.eccouncil.org/train-certify/ceh-master/) Practical CEH exam Cost is really high (USD $4,670) including CEH multiple-choice and hands-on exams. Typically need college, a scholarship, or work to pay for it. 
-- [OSCP](https://www.offsec.com/courses/pen-200/) Highly recognized penetration testing certification with a focus on manual testing techniques 
+- [OSCP](https://www.offsec.com/courses/pen-200/) Highly recognized penetration testing certification with a focus on manual testing techniques by Offensive Security 
 The cost is High (USD $1000-2500)
 - I will be writing an OSCP study guide soon.
-- [OSWA](https://www.offsec.com/courses/web-200/) Hands-on web application penetration testing exam
-- [OSWP](https://www.offsec.com/courses/web-210/) Hands-on  wireless penetration testing exam 
+- [OSWA](https://www.offsec.com/courses/web-200/) Hands-on web application penetration testing exam by Offensive Security
+The cost is High (USD $1000-2500)
+- [OSWP](https://www.offsec.com/courses/web-210/) Hands-on  wireless penetration testing exam by Offensive Security The Cost is Mid/High (USD $800-900 with learn fundamentals package)
 - Looking for people to give feedback on SANS certifications
 ## Web Application Security
 
