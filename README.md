@@ -224,7 +224,9 @@ the Cost is Low/Mid (USD $300-400)
 ### Security - Entry Level
 - [CompTIA Security+](https://www.comptia.org/certifications/security) Comptia Entry-level security certification Cost is Low/Mid (USD $300-400)
 - Stay Tuned for a Security + study guide
-- [CEH](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/) Certified Ethical Hacker certification. This is for the multiple-choice exam.  The Cost is High (USD $1200) 
+- [CEH](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/) Certified Ethical Hacker certification. This is for the multiple-choice exam.  The Cost is High (USD $1200)
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) Entry-level cybersecurity certification from Google
+- [CC](https://www.isc2.org/certifications/cc) Entry level certification from ISC2
 ### Security - Management Level
 - [CISSP](https://www.isc2.org/Certifications/CISSP) Certified Information Systems Security Professional Cost Mid ($USD 700-800)
 ### Penetration Testing
@@ -412,6 +414,7 @@ This section is still in progress
 ### ISOS
 An ISO is a virtual "box" that contains all the necessary files and data to set up a computer system or an operating system. ISO files are typically used to distribute software, including operating systems like Windows or Linux. 
 #### Windows ISO images from Microsoft
+* [Windows 11 iso image](https://www.microsoft.com/en-us/software-download/windows11)
 * [Windows 10 iso image](https://www.microsoft.com/en-us/software-download/windows10)
 * [Windows 8 iso image](https://www.microsoft.com/en-us/software-download/windows8ISO)
 * [Windows 7 iso image](https://www.microsoft.com/en-us/software-download/windows7)
