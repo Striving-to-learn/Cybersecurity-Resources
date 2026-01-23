@@ -418,6 +418,11 @@ An ISO is a virtual "box" that contains all the necessary files and data to set 
 * [Windows 10 iso image](https://www.microsoft.com/en-us/software-download/windows10)
 * [Windows 8 iso image](https://www.microsoft.com/en-us/software-download/windows8ISO)
 * [Windows 7 iso image](https://www.microsoft.com/en-us/software-download/windows7)
+#### Windows Server ISO images from Microsoft
+* [Windows Server 2022 iso image](https://info.microsoft.com/ww-landing-windows-server-2022.html)
+* [Windows Server 2019 iso image](https://info.microsoft.com/ww-landing-windows-server-2019.html)
+* [Windows Server 2016 iso image](https://info.microsoft.com/ww-landing-windows-server-2016.html)
+
 #### Linux ISO images
 Common Linux Distros 
 * [Debian](https://www.debian.org/CD/http-ftp/) Stable and open-source OS with vast software repositories
