@@ -130,6 +130,7 @@ Please note that pirating will not be supported, as many books are available for
 - [How to Find Passwords and Hashes in a System](http://www.nirsoft.net/articles/saved_password_location.html)
 - [Default Passwords](http://www.virus.org/default-password)
 - [Online Hash Cracker](http://www.phenoelit-us.org/dpl/dpl.html)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 - [Cracking Hashes and Passwords with Ncrack](http://nmap.org/ncrack/)
 - [Hacking Tutorials Using Medusa](http://www.foofus.net/~jmk/medusa/medusa.html)
 - [Password Cracking with John the Ripper](http://www.openwall.com/john/)
