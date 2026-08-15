@@ -317,6 +317,7 @@ An attack where malicious scripts are injected into web pages, affecting users w
 - [theHarvester](http://www.edge-security.com/theHarvester.php)
 - [DNSTracer](http://www.mavetju.org/unix/dnstracer-man.php)
 - [Paterva Maltego](http://www.paterva.com/web5/)
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### Shells
 - [Yokoso](http://sourceforge.net/projects/yokoso/)
@@ -447,7 +448,7 @@ OSINT (Open Source Intelligence) -The practice of collecting information from pu
 * http://addictomatic.com/ - Search topics and key phrases 
 * http://socialmention.com/ - see how often a phrase is mentioned 
 * http://entitycube.research.microsoft.com/ - link entities to other sources  
-* http://www.yasni.com/ - search engine for people and business 
+* https://www.yasni.com/ - search engine for people and business 
 * http://tweepz.com/ - Search and find Twitter profiles 
 * http://tweepsearch.com/ - Tweet search engine 
 * http://www.glassdoor.com/index.htm - Search for employers and salaries 
